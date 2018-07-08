@@ -1,0 +1,969 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kindergarten\n"
+"POT-Creation-Date: 2015-09-21 12:15+0700\n"
+"PO-Revision-Date: 2015-09-21 12:15+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <admin@themesawesome.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+"X-Poedit-SearchPath-3: .\n"
+
+#: 404.php:11 inc/format/content-no-result.php:8 ../kindergarten/404.php:11
+#: ../kindergarten/inc/format/content-no-result.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15 inc/format/content-no-result.php:12 ../kindergarten/404.php:15
+#: ../kindergarten/inc/format/content-no-result.php:12
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+#: ../kindergarten/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:334
+#: ../kindergarten/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+#: ../kindergarten/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:336
+#: ../kindergarten/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+#: ../kindergarten/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:398
+#: ../kindergarten/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3034
+#: ../kindergarten/class-tgm-plugin-activation.php:399
+#: ../kindergarten/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:400
+#: ../kindergarten/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:401
+#: ../kindergarten/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+#: ../kindergarten/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+#: ../kindergarten/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+#: ../kindergarten/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:405
+#: ../kindergarten/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2172
+#: ../kindergarten/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2175
+#: ../kindergarten/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2191
+#: ../kindergarten/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2194
+#: ../kindergarten/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2197
+#: ../kindergarten/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2214
+#: ../kindergarten/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2218
+#: ../kindergarten/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2220
+#: ../kindergarten/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2226
+#: ../kindergarten/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2229
+#: ../kindergarten/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2232
+#: ../kindergarten/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2384
+#: ../kindergarten/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2392
+#: ../kindergarten/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2404
+#: ../kindergarten/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2427
+#: ../kindergarten/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2441
+#: ../kindergarten/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2442
+#: ../kindergarten/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2443
+#: ../kindergarten/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2447
+#: ../kindergarten/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2448
+#: ../kindergarten/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2608
+#: ../kindergarten/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2614
+#: ../kindergarten/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2617
+#: ../kindergarten/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2648
+#: ../kindergarten/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2650
+#: ../kindergarten/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2686
+#: ../kindergarten/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2688
+#: ../kindergarten/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3033
+#: ../kindergarten/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3367
+#: ../kindergarten/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3369
+#: ../kindergarten/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3370
+#: ../kindergarten/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3374
+#: ../kindergarten/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3375
+#: ../kindergarten/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3376
+#: ../kindergarten/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3377
+#: ../kindergarten/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3380
+#: ../kindergarten/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3382
+#: ../kindergarten/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3383
+#: ../kindergarten/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:20 comments.php:35 ../kindergarten/comments.php:20
+#: ../kindergarten/comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:36 ../kindergarten/comments.php:21
+#: ../kindergarten/comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:37 ../kindergarten/comments.php:22
+#: ../kindergarten/comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47 ../kindergarten/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:146 ../kindergarten/functions.php:146
+msgid "Primary Sidebar"
+msgstr ""
+
+#: single-kindergarten-class.php:54 inc/part/related-class.php:76
+#: template/class-template.php:79 template/home-template.php:458
+#: ../kindergarten/single-kindergarten-class.php:54
+#: ../kindergarten/inc/part/related-class.php:76
+#: ../kindergarten/template/class-template.php:79
+#: ../kindergarten/template/home-template.php:458
+msgid "Age Group"
+msgstr ""
+
+#: single-kindergarten-class.php:60 inc/part/related-class.php:82
+#: template/class-template.php:85 template/home-template.php:464
+#: ../kindergarten/single-kindergarten-class.php:60
+#: ../kindergarten/inc/part/related-class.php:82
+#: ../kindergarten/template/class-template.php:85
+#: ../kindergarten/template/home-template.php:464
+msgid "Class Size"
+msgstr ""
+
+#: single-kindergarten-class.php:66
+#: ../kindergarten/single-kindergarten-class.php:66
+msgid "Pricing"
+msgstr ""
+
+#: single-kindergarten-class.php:72
+#: ../kindergarten/single-kindergarten-class.php:72
+msgid "Sessions"
+msgstr ""
+
+#: single-kindergarten-class.php:90
+#: ../kindergarten/single-kindergarten-class.php:90
+msgid "Class Start"
+msgstr ""
+
+#: inc/format/content.php:17 ../kindergarten/inc/format/content.php:17
+msgid "Comments "
+msgstr ""
+
+#: inc/format/content.php:24 ../kindergarten/inc/format/content.php:24
+msgid "Tags: "
+msgstr ""
+
+#: inc/format/loop.php:19 ../kindergarten/inc/format/loop.php:19
+msgid "Comments"
+msgstr ""
+
+#: inc/format/loop.php:26 ../kindergarten/inc/format/loop.php:26
+msgid "Read More"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:26
+#: ../kindergarten/inc/function/akmanda-customizer.php:26
+msgid "Header"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:112
+#: ../kindergarten/inc/function/akmanda-customizer.php:112
+msgid "Menu List Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:119
+#: ../kindergarten/inc/function/akmanda-customizer.php:119
+msgid "Menu List Text Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:126
+#: ../kindergarten/inc/function/akmanda-customizer.php:126
+msgid "Menu List Background Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:133
+#: ../kindergarten/inc/function/akmanda-customizer.php:133
+msgid "Background Menu Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:140
+#: ../kindergarten/inc/function/akmanda-customizer.php:140
+msgid "Background Submenu Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:147
+#: ../kindergarten/inc/function/akmanda-customizer.php:147
+msgid "Submenu List Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:154
+#: ../kindergarten/inc/function/akmanda-customizer.php:154
+msgid "Submenu List Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:161
+#: ../kindergarten/inc/function/akmanda-customizer.php:161
+msgid "Background Search Icon Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:168
+#: ../kindergarten/inc/function/akmanda-customizer.php:168
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:175
+#: ../kindergarten/inc/function/akmanda-customizer.php:175
+msgid "Border Header Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:186
+#: ../kindergarten/inc/function/akmanda-customizer.php:186
+msgid "Content"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:353
+#: ../kindergarten/inc/function/akmanda-customizer.php:353
+msgid "Slider Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:360
+#: ../kindergarten/inc/function/akmanda-customizer.php:360
+msgid "Title Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:367
+#: ../kindergarten/inc/function/akmanda-customizer.php:367
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:374
+#: ../kindergarten/inc/function/akmanda-customizer.php:374
+msgid "Title Border Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:381
+#: ../kindergarten/inc/function/akmanda-customizer.php:381
+msgid "Feature Title Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:388
+#: ../kindergarten/inc/function/akmanda-customizer.php:388
+msgid "Button White Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:395
+#: ../kindergarten/inc/function/akmanda-customizer.php:395
+msgid "Button White Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:402
+#: ../kindergarten/inc/function/akmanda-customizer.php:402
+msgid "Button Blue Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:409
+#: ../kindergarten/inc/function/akmanda-customizer.php:409
+msgid "Button Blue Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:416
+#: ../kindergarten/inc/function/akmanda-customizer.php:416
+msgid "Banner Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:424
+#: ../kindergarten/inc/function/akmanda-customizer.php:424
+msgid "Title Blog and Text Link Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:431
+#: ../kindergarten/inc/function/akmanda-customizer.php:431
+msgid "Title Blog and Text Link Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:438
+#: ../kindergarten/inc/function/akmanda-customizer.php:438
+msgid "Sidebar Archives Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:445
+#: ../kindergarten/inc/function/akmanda-customizer.php:445
+msgid "Sidebar Archives Background Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:452
+#: ../kindergarten/inc/function/akmanda-customizer.php:452
+msgid "Sidebar Archives text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:459
+#: ../kindergarten/inc/function/akmanda-customizer.php:459
+msgid "Sidebar Archives text Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:466
+#: ../kindergarten/inc/function/akmanda-customizer.php:466
+msgid "Social Media Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:473
+#: ../kindergarten/inc/function/akmanda-customizer.php:473
+msgid "Social Media Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:480
+#: ../kindergarten/inc/function/akmanda-customizer.php:480
+msgid "Arrow Preview and Next Button Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:487
+#: ../kindergarten/inc/function/akmanda-customizer.php:487
+msgid "Arrow Preview and Next Button Icon Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:494
+#: ../kindergarten/inc/function/akmanda-customizer.php:494
+msgid "My Schedule Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:506
+#: ../kindergarten/inc/function/akmanda-customizer.php:506
+msgid "Footer"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:569
+#: ../kindergarten/inc/function/akmanda-customizer.php:569
+msgid "Background Top Footer Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:576
+#: ../kindergarten/inc/function/akmanda-customizer.php:576
+msgid "Background Bottom Footer Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:583
+#: ../kindergarten/inc/function/akmanda-customizer.php:583
+msgid "Copyright Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:590
+#: ../kindergarten/inc/function/akmanda-customizer.php:590
+msgid "Copyright Link Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:597
+#: ../kindergarten/inc/function/akmanda-customizer.php:597
+msgid "Copyright Link Text Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:604
+#: ../kindergarten/inc/function/akmanda-customizer.php:604
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:611
+#: ../kindergarten/inc/function/akmanda-customizer.php:611
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/function/comment.php:16 ../kindergarten/inc/function/comment.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/function/comment.php:21 ../kindergarten/inc/function/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/function/comment.php:34 ../kindergarten/inc/function/comment.php:34
+msgid "Edit"
+msgstr ""
+
+#: inc/function/navigation.php:46
+#: ../kindergarten/inc/function/navigation.php:46
+msgid "OLDER POST"
+msgstr ""
+
+#: inc/function/navigation.php:50
+#: ../kindergarten/inc/function/navigation.php:50
+msgid "NEWER POST"
+msgstr ""
+
+#: inc/function/thefooter.php:9 inc/function/thefooter.php:23
+#: inc/function/thefooter.php:46 inc/function/thefooter.php:79
+#: ../kindergarten/inc/function/thefooter.php:9
+#: ../kindergarten/inc/function/thefooter.php:23
+#: ../kindergarten/inc/function/thefooter.php:46
+#: ../kindergarten/inc/function/thefooter.php:79
+msgid "Footer 1"
+msgstr ""
+
+#: inc/function/thefooter.php:33 inc/function/thefooter.php:56
+#: inc/function/thefooter.php:89 ../kindergarten/inc/function/thefooter.php:33
+#: ../kindergarten/inc/function/thefooter.php:56
+#: ../kindergarten/inc/function/thefooter.php:89
+msgid "Footer 2"
+msgstr ""
+
+#: inc/function/thefooter.php:66 inc/function/thefooter.php:99
+#: ../kindergarten/inc/function/thefooter.php:66
+#: ../kindergarten/inc/function/thefooter.php:99
+msgid "Footer 3"
+msgstr ""
+
+#: inc/function/thefooter.php:109
+#: ../kindergarten/inc/function/thefooter.php:109
+msgid "Footer 4"
+msgstr ""
+
+#: inc/option/panel/config.php:58
+#: ../kindergarten/inc/option/panel/config.php:58
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/option/panel/config.php:75
+#: ../kindergarten/inc/option/panel/config.php:75
+msgid "Header Options"
+msgstr ""
+
+#: inc/option/panel/config.php:83
+#: ../kindergarten/inc/option/panel/config.php:83
+msgid "Logo"
+msgstr ""
+
+#: inc/option/panel/config.php:84
+#: ../kindergarten/inc/option/panel/config.php:84
+msgid "Upload your logo here (any size)."
+msgstr ""
+
+#: inc/option/panel/config.php:93
+#: ../kindergarten/inc/option/panel/config.php:93
+msgid "Background Options"
+msgstr ""
+
+#: inc/option/panel/config.php:100
+#: ../kindergarten/inc/option/panel/config.php:100
+msgid "Body Background"
+msgstr ""
+
+#: inc/option/panel/config.php:101
+#: ../kindergarten/inc/option/panel/config.php:101
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/option/panel/config.php:112
+#: ../kindergarten/inc/option/panel/config.php:112
+msgid "Footer Options"
+msgstr ""
+
+#: inc/option/panel/config.php:118
+#: ../kindergarten/inc/option/panel/config.php:118
+msgid "Allow Page Comment"
+msgstr ""
+
+#: inc/option/panel/config.php:119
+#: ../kindergarten/inc/option/panel/config.php:119
+msgid "This option allow you to turn on or off your page comment."
+msgstr ""
+
+#: inc/option/panel/config.php:120
+#: ../kindergarten/inc/option/panel/config.php:120
+msgid "Check the box for display comment."
+msgstr ""
+
+#: inc/option/panel/config.php:128
+#: ../kindergarten/inc/option/panel/config.php:128
+msgid "Main Layout"
+msgstr ""
+
+#: inc/option/panel/config.php:129
+#: ../kindergarten/inc/option/panel/config.php:129
+msgid ""
+"Select footer and widget alignment. Choose between 1, 2, 3 or 4 column "
+"layout."
+msgstr ""
+
+#: inc/option/panel/config.php:143
+#: ../kindergarten/inc/option/panel/config.php:143
+msgid "Footer Text"
+msgstr ""
+
+#: inc/option/panel/config.php:144
+#: ../kindergarten/inc/option/panel/config.php:144
+msgid "Add Your Copyright Here"
+msgstr ""
+
+#: inc/option/panel/config.php:155
+#: ../kindergarten/inc/option/panel/config.php:155
+msgid "Typography Options"
+msgstr ""
+
+#: inc/option/panel/config.php:163
+#: ../kindergarten/inc/option/panel/config.php:163
+msgid "Body Options"
+msgstr ""
+
+#: inc/option/panel/config.php:177
+#: ../kindergarten/inc/option/panel/config.php:177
+msgid "Set website body font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:190
+#: ../kindergarten/inc/option/panel/config.php:190
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:204
+#: ../kindergarten/inc/option/panel/config.php:204
+msgid "Set website heading font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:218
+#: ../kindergarten/inc/option/panel/config.php:218
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:232
+#: ../kindergarten/inc/option/panel/config.php:232
+msgid "Set website menu font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:244
+#: ../kindergarten/inc/option/panel/config.php:244
+msgid "Social Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:250
+#: ../kindergarten/inc/option/panel/config.php:250
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:258
+#: ../kindergarten/inc/option/panel/config.php:258
+msgid "twitter Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:267
+#: ../kindergarten/inc/option/panel/config.php:267
+msgid "Google+ Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:276
+#: ../kindergarten/inc/option/panel/config.php:276
+msgid "linkedin Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:285
+#: ../kindergarten/inc/option/panel/config.php:285
+msgid "Pinterest Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:293
+#: ../kindergarten/inc/option/panel/config.php:293
+msgid "Dribble Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:301
+#: ../kindergarten/inc/option/panel/config.php:301
+msgid "Flickr Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:309
+#: ../kindergarten/inc/option/panel/config.php:309
+msgid "Behance Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:317
+#: ../kindergarten/inc/option/panel/config.php:317
+msgid "Youtube Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:325
+#: ../kindergarten/inc/option/panel/config.php:325
+msgid "Soundcloud Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:333
+#: ../kindergarten/inc/option/panel/config.php:333
+msgid "Codepen Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:341
+#: ../kindergarten/inc/option/panel/config.php:341
+msgid "Deviantart Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:349
+#: ../kindergarten/inc/option/panel/config.php:349
+msgid "Digg Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:357
+#: ../kindergarten/inc/option/panel/config.php:357
+msgid "Dropbox Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:365
+#: ../kindergarten/inc/option/panel/config.php:365
+msgid "Github Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:373
+#: ../kindergarten/inc/option/panel/config.php:373
+msgid "Instagram Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:381
+#: ../kindergarten/inc/option/panel/config.php:381
+msgid "Skype Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:389
+#: ../kindergarten/inc/option/panel/config.php:389
+msgid "Spotify Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:397
+#: ../kindergarten/inc/option/panel/config.php:397
+msgid "Steam Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:405
+#: ../kindergarten/inc/option/panel/config.php:405
+msgid "Trello Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:413
+#: ../kindergarten/inc/option/panel/config.php:413
+msgid "Tumblr Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:421
+#: ../kindergarten/inc/option/panel/config.php:421
+msgid "Vimeo Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:429
+#: ../kindergarten/inc/option/panel/config.php:429
+msgid "Wechat Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:437
+#: ../kindergarten/inc/option/panel/config.php:437
+msgid "Weibo Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:445
+#: ../kindergarten/inc/option/panel/config.php:445
+msgid "WordPress Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:453
+#: ../kindergarten/inc/option/panel/config.php:453
+msgid "Xing Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:461
+#: ../kindergarten/inc/option/panel/config.php:461
+msgid "Yahoo Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:469
+#: ../kindergarten/inc/option/panel/config.php:469
+msgid "Yelp Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:492
+#: ../kindergarten/inc/option/panel/config.php:492
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/option/panel/config.php:493
+#: ../kindergarten/inc/option/panel/config.php:493
+msgid "<p>Please go to themesawesome.com to get support</p>"
+msgstr ""
+
+#: inc/option/panel/config.php:509 inc/option/panel/config.php:510
+#: ../kindergarten/inc/option/panel/config.php:509
+#: ../kindergarten/inc/option/panel/config.php:510
+msgid "Options"
+msgstr ""
+
+#: inc/part/related-class.php:4 ../kindergarten/inc/part/related-class.php:4
+msgid "Related Classes"
+msgstr ""
+
+#: template/about-template.php:248
+#: ../kindergarten/template/about-template.php:248
+msgid "VIEW MORE"
+msgstr ""
+
+#: template/home-template.php:404
+#: ../kindergarten/template/home-template.php:404
+msgid "Our Classes"
+msgstr ""
+
+#: template/teacher-template.php:173
+#: ../kindergarten/template/teacher-template.php:173
+msgid "About"
+msgstr ""
+
+#: template/teacher-template.php:180
+#: ../kindergarten/template/teacher-template.php:180
+msgid "My Skills"
+msgstr ""
+
+#: template/teacher-template.php:187
+#: ../kindergarten/template/teacher-template.php:187
+msgid "Graphic - "
+msgstr ""
+
+#: template/teacher-template.php:195
+#: ../kindergarten/template/teacher-template.php:195
+msgid "Drawing - "
+msgstr ""
+
+#: template/teacher-template.php:203
+#: ../kindergarten/template/teacher-template.php:203
+msgid "Paint - "
+msgstr ""
+
+#: template/teacher-template.php:211
+#: ../kindergarten/template/teacher-template.php:211
+msgid "Music - "
+msgstr ""
+
+#: template/teacher-template.php:219
+#: ../kindergarten/template/teacher-template.php:219
+msgid "Sport - "
+msgstr ""
+
+#: template/teacher-template.php:240
+#: ../kindergarten/template/teacher-template.php:240
+msgid "My Schedule"
+msgstr ""
+
+#: template/teacher-template.php:267
+#: ../kindergarten/template/teacher-template.php:267
+msgid "My Lesson"
+msgstr ""
+
+#: template/teacher-template.php:284
+#: ../kindergarten/template/teacher-template.php:284
+msgid "Contact Me"
+msgstr ""
